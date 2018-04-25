@@ -16,11 +16,11 @@
     "body-parser": "~1.0.2",
     "coffee-script": "^1.7.1",
     "express": "~4.1.1",
-    "logger-sharelatex": "git+https://github.com/sharelatex/logger-sharelatex.git#v1.1.0",
-    "metrics-sharelatex": "git+https://github.com/sharelatex/metrics-sharelatex.git#v1.7.1",
+    "logger-sharelatex": "git+https://github.com/sharelatex/logger-sharelatex.git#5a3ea8e",
+    "metrics-sharelatex": "git+https://github.com/sharelatex/metrics-sharelatex.git#1669619",
     "mongojs": "2.4.0",
     "request": "~2.34.0",
-    "settings-sharelatex": "git+https://github.com/sharelatex/settings-sharelatex.git#v1.0.0",
+    "settings-sharelatex": "git+https://github.com/sharelatex/settings-sharelatex.git#cbc5e41",
     "underscore": "~1.6.0"
   },
   "devDependencies": {
